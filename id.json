@@ -1,8 +1,1 @@
-{
-  "projects":[
-  {
-    "projId":"test-id",
-    "projName":"project-name"
-  }
-]
-}
+{"projects":[{"projId":"test-id","projName":"project-name"},{"projId":"1252b67a-524a-4587-b834-dbd923109111","projName":"images (1)"},{"projId":"52180ad8-942f-4752-9394-56abd44fb96b","projName":"images"},{"projId":"5afcb3e6-a0cf-4797-98c6-4ed66017cc45","projName":"images"},{"projId":"2e6ef685-dbcf-4562-9e22-142cb8e81753","projName":"images (1)"},{"projId":"bf445155-f2f2-4e04-a4d6-6213f39c9a1c","projName":"images (2)"},{"projId":"4397433d-6dc0-4f4f-90dc-f70f37b1a3c6","projName":"images (3)"},{"projId":"03e58134-9aab-4e5a-b934-53600a41b61e","projName":"images (4)"},{"projId":"ea2800ad-2cec-421e-84b7-ad71866c2341","projName":"Apple img"},{"projId":"c58364e2-cb29-450e-978e-2a161c6d27e1","projName":"leaves img"},{"projId":"f544f966-59be-4a89-a67a-a89b396616bf","projName":"lawn images"}]}
